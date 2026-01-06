@@ -1,6 +1,11 @@
 {
-    "chatgpt.openOnStartup": true,
     "files.associations": {
-        "iostream": "cpp"
-    }
+        "*.cpp": "cpp",
+        "*.c": "c",
+        "*.h": "c",
+        "*.hpp": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "g++.exe",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.intelliSenseMode": "windows-gcc-x64"
 }

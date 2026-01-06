@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(g++:*)",
+      "Bash(dir \"C:\\\\msys64\\\\ucrt64\\\\bin\")",
+      "Bash(findstr:*)",
+      "Bash(gcc:*)"
+    ]
+  }
+}
